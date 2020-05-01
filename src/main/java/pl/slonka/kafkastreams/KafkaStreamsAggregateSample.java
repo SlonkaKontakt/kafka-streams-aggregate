@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package kafka.streams.table.join;
+package pl.slonka.kafkastreams;
 
 import org.apache.kafka.streams.KeyValue;
 import org.apache.kafka.streams.kstream.KStream;

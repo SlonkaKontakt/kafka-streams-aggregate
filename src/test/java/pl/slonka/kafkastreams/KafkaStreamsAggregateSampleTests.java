@@ -1,4 +1,4 @@
-package kafka.streams.table.join;
+package pl.slonka.kafkastreams;
 
 import org.apache.kafka.clients.consumer.Consumer;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
